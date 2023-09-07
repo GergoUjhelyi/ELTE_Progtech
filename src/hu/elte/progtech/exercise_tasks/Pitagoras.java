@@ -22,7 +22,7 @@ public class Pitagoras {
                 System.err.println("Wrong number format! Try again!");
             }
         }
-        /**
+        /*
          * Mielőtt az algoritmust kitalálnánk, gondoljuk végig a Pitagorasz-tételt. A két befogó (ami a két kisebb oldal) négyzetének összege = az átfogó négyzetével (leghoszabb oldal).
          * Ha rendezzük a tömbböt, akkor megkapjuk a befogókat és az átfogót. Utánna már csak alkalmazzuk a tételt.
          */
